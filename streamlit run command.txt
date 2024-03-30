@@ -1,0 +1,1 @@
+streamlit run "C:\Users\cynth\Downloads\Disease Prediction System\disease prediction system.py"
